@@ -1,0 +1,30 @@
+body, html {
+  text-align: center;
+  font-size: 15px;
+  padding: 0;
+  margin-left: 50px;
+  height: 100%;
+  width: 70%;
+}
+
+.game {
+  margin: auto;
+  position: relative;
+  width: 700px;
+  height: 700px;
+}
+
+table {
+  margin: auto;
+  width: 600px;
+  height: 600px;
+  border: none;
+  border-collapse: collapse;
+  padding: 0;
+}
+
+td {
+  height: 10px;
+  width: 10px;
+}
+
