@@ -1,5 +1,7 @@
 Flood
-Check it out here:
+
+Play it here:
+
 https://isabellaberekdar.github.io/Flood-Game/
 
 An implementation of the game flood. The objective of the game is to flood the entire screen 
